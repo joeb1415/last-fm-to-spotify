@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "last_fm_to_spotify"
+version = "0.0.1"
+description = "Create Spotify playlist from Last.fm scrobble playback history for a given time range"
+authors = ["Joe Bryan <bryan.joe@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.6"
+pylast = "^3.2.1"
+spotipy = "^2.12.0"
+
+[build-system]
+requires = ["poetry~=0.12"]
+build-backend = "poetry.masonry.api"
