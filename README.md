@@ -32,7 +32,7 @@ $ pyenv local last-fm-to-spotify
 Last.fm API Key: 340979c3c50a6cb70555500446ebddf6
 Last.fm API Secret: 41b6e57ae80c197337ed8d32fae65753
 Last.fm Username: joeb1415
-Last.fm Password: ***.
+Last.fm Password: ***!
 Begin time as `yyyy-mm-dd hh:mm:ss`: 2020-06-07 08:00:00
 End time as `yyyy-mm-dd hh:mm:ss`: 2020-06-07 11:15:00
 Spotify username: bryan.joe
