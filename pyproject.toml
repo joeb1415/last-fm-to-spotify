@@ -5,7 +5,8 @@ description = "Create Spotify playlist from Last.fm scrobble playback history fo
 authors = ["Joe Bryan <bryan.joe@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.6"
+python = "^3.7"
+pendulum = "^2.1.1"
 pylast = "^3.2.1"
 spotipy = "^2.12.0"
 
